@@ -1,0 +1,4 @@
+flake8==3.9.0
+pytest==6.2.4
+hypothesis==6.21.6
+mypy==0.910

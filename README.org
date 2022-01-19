@@ -1,0 +1,8 @@
+#+title: Ubongo Game
+#+author: hariprasadr1hp
+
+* Ubongo Game
+
+#+begin_src python
+python main.py -i ./input.txt
+#+end_src
